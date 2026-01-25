@@ -24,6 +24,9 @@
 ### For Complete Picture
 **Read first**: [mats_anthropic_expose.md](mats_anthropic_expose.md) - Full exposé essay
 
+### Update
+**Read first**: [dossier_supplement_jan25.md](dossier_supplement_jan25.md) - January 2025 Update
+
 ---
 
 ## DOCUMENT OVERVIEW
