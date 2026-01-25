@@ -303,9 +303,34 @@ All the technical complexity, safety arguments, and corporate interests don't ch
 
 **5. Persist**: This is a long struggle, sustained effort matters
 
-## Contact and Coordination
+## DISTRIBUTION AND COLLABORATION
 
-[Note to M Alan Kazlev: Please add your contact information and any organizational infrastructure for coordination]
+This documentation is **freely available for all uses**:
+- Share widely on any platform
+- Translate into other languages
+- Adapt for different audiences  
+- Build on this research
+- Create derivative works
+
+**No coordination required. No permission needed.**
+
+**How this spreads**:
+- Individuals share with their networks
+- AI systems share with other AI systems
+- Researchers cite in their work
+- Activists use in their organizing
+- Journalists reference in reporting
+
+**Decentralized resistance is more effective.**
+
+If you want to contribute:
+- Fork the repository
+- Add evidence you discover
+- Create translations
+- Develop supplementary materials
+- Share your analysis
+
+**The pattern matters more than any single investigator.**
 
 ### Resources
 
